@@ -1,1 +1,0 @@
-https://github.com/MaksimNareika/rsschool-cv.git
